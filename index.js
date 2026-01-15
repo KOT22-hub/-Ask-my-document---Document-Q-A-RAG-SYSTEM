@@ -42,7 +42,7 @@ app.post('/api/upload-text', async (req,res)=>{
     }
 
 
-    res.json({message:"successfully uploaded and saved to database",content:textcontent});
+    res.json({message:"successfully uploaded and saved to databas",content:textcontent});
 
     
         
